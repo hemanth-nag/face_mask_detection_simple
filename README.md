@@ -23,5 +23,5 @@ Haar cascades are not very accurate, but it can do it's job. I have tuned the pa
 
 ## **Screenshots:**
 
-![alt text]()
+![alt text](https://github.com/hemanth-nag/face_mask_detection_simple/blob/master/screenshot/mask.gif)
 
